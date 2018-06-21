@@ -31,3 +31,5 @@ Send_state.py
 wifi_client_ver.180610.ino
   - for WeMos D1 R2
   - 진동 센서를 통해 세탁기의 진동값을 확인, 세탁기의 상태를 구분하고 ARTIK에 전송
+
+send_temp.py와 esp8266 예제 참조
