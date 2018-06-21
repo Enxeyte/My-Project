@@ -79,7 +79,6 @@ def send_cloud():
         try:
                 api_response = api_instance.send_message(data) # Send Message
         except ApiException as e:
-                pprint("Exception when calling MessagesApi->send_message: %s\n"
-% e)
+                pprint("Exception when calling MessagesApi->send_message: %s\n"% e)
         print "Send to cloud success"
 main()
