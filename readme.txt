@@ -24,6 +24,10 @@ Project 개요
 ------------------------------------------
 
 CODE
-Send_state.py : for ARTIK, WeMos D1 R2 보드에서 세탁기 상태를 전송받아 ARTIK Cloud에 전송하는 코드
+Send_state.py
+  - for ARTIK
+  - WeMos D1 R2 보드에서 세탁기 상태를 전송받아 ARTIK Cloud에 전송하는 코드
 
-wifi_client_ver.180610.ino : for WeMos D1 R2, 진동 센서를 통해 세탁기의 진동값을 확인, 세탁기의 상태를 구분하고 ARTIK에 
+wifi_client_ver.180610.ino
+  - for WeMos D1 R2
+  - 진동 센서를 통해 세탁기의 진동값을 확인, 세탁기의 상태를 구분하고 ARTIK에 전송
